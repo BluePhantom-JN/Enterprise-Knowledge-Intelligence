@@ -1,0 +1,8 @@
+{
+  "name": "Meridian Knowledge Studio",
+  "description": "Enterprise RAG workspace powered by Cloud SQL PostgreSQL with pgvector, role-based access control, multi-format document ingestion, hybrid semantic and lexical search, inline citations, and a live retrieval inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
